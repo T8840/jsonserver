@@ -1,6 +1,7 @@
 {
   "students": [
     { "id": 1, "student": "jame", "score": 15 },
+    { "id": 2, "student": "neal", "score": 100 }
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
